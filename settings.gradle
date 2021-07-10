@@ -1,0 +1,2 @@
+rootProject.name='Metakinisi2'
+include ':app'
